@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">应用时间统计</string>
+    <string name="app_use_count">使用次数 : </string>
+    <string name="app_use_time">使用时长 : </string>
+    <string name="app_calculate_use_time">计算所得使用时长 : </string>
+    <string name="app_start_use_time">开始使用时间 : </string>
+    <string name="app_stop_use_time">最后使用时间 : </string>
+    <string name="app_total_use_time">使用时长总计 : </string>
+
+    <string name="action_bar_title_1">应用时间统计</string>
+    <string name="action_bar_title_2">应用使用次数信息统计</string>
+    <string name="action_bar_title_3">activity信息统计</string>
+
+    <string name="action_bar_title_permission">统计权限</string>
+    <string name="action_bar_title_show_all">显示当天全部数据</string>
+
+    <string name="activity_name">activity名称</string>
+    <string name="activity_total_use_time">activity使用时长</string>
+</resources>

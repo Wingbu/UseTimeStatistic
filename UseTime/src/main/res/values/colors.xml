@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dividing_line">#727272</color>
+
+    <color name="text_gray">#666666</color>
+    <color name="text_dark_gray">#565656</color>
+
+    <color name="white_pressed">#E5E5E5</color>
+    <color name="mc_unread">#FF4081</color>
+    <color name="customBackgroung">#FF4081</color>
+
+</resources>
